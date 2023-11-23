@@ -2,8 +2,12 @@
  Project_Healthcare-Data-science-Masters-program-capstone-main
 
 
-DESCRIPTION
+Preface :
+I'm Devadethan and this is my final project on completing the Master's program in data science from simplilearn.
+This project is a capstone project for the Healthcare Data Science Master's program.
+It involves the analysis of healthcare data using Python and the libraries pandas, numpy, and matplotlib.
 
+DESCRIPTION
 Problem Statement
 NIDDK (National Institute of Diabetes and Digestive and Kidney Diseases) research creates knowledge about and treatments for the most chronic, costly, and consequential diseases.
 The dataset used in this project is originally from NIDDK. The objective is to predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
@@ -86,4 +90,6 @@ e. Create bins of these age values: 20-25, 25-30, 30-35, etc. Analyze different 
 
 Tableau ScreenShot 
 
-![Tableau]()
+![Tableau](https://github.com/devadethanr/Project_Healthcare-Data-science-Masters-program-capstone-main/blob/ed8a8ab822ecc6344e7e59013e214b69d3d426a8/Project_Healthcare-data_science-tableau-ss.png)
+
+https://github.com/devadethanr/Project_Healthcare-Data-science-Masters-program-capstone-main/blob/ed8a8ab822ecc6344e7e59013e214b69d3d426a8/Project_Healthcare-data_science-tableau-ss.png
